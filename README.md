@@ -1,2 +1,2 @@
 # TDS
-This is TDS project
+This is TDS project.
